@@ -19,7 +19,7 @@ import com.kvvssut.iobapp.spring.model.User;
 @Controller
 public class HomeController {
 
-	private static final Logger logger = LoggerFactory
+	private static final Logger LOGGER = LoggerFactory
 			.getLogger(HomeController.class);
 
 	@Autowired
@@ -33,7 +33,7 @@ public class HomeController {
 		List<User> listUsers = userDao.list();
 		ModelAndView model = new ModelAndView("home");
 		model.addObject("userList", listUsers);
-		logger.info(
+		LOGGER.info(
 				"Inside HomeController : Size of returned list of users is {}",
 				listUsers.size());
 		return model;
