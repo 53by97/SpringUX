@@ -3,8 +3,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>All Notes Page Of 53by97.com</title>
-<link rel="stylesheet" type="text/css"
-	href="resources/css/style.css" />
+<link rel="stylesheet" type="text/css" href="resources/css/style.css" />
 </head>
 <body>
 	<!-- <img class="logo" alt="Old Books - Sell Them For Cash"
@@ -33,7 +32,7 @@
 				<th>Date</th>
 				<th>Topic</th>
 				<th>Notes</th>
-				<th>Materials</th>
+				<th>Project</th>
 				<th>Author</th>
 			</tr>
 
@@ -46,18 +45,29 @@
 						Java Project</a></td>
 				<td>Srimanta_Sahu</td>
 			</tr>
+
+			<tr>
+				<td>29-Mar-2016</td>
+				<td>Java 8</td>
+				<td><a href="resources/attachments/pdf/Java8Notes.pdf">Java
+						8 Notes</a></td>
+				<td><a href="resources/attachments/zip/Java8Project.zip">Java
+						8 Project</a></td>
+				<td>Srimanta_Sahu</td>
+			</tr>
+
 		</table>
 	</div>
 
 	<div class="footer">
 		<p class="center">
-			Please <a href="mailto:admin@53by97.com">mail us</a> if you find
+			Please <a href="mailto:admin@53by97.in">mail us</a> if you find
 			anything wrong or ambiguous!
 		</p>
 		<ul class="fixedlinks">
 			<li class="fixedlinks"><a href="">Privacy Policy</a></li>
 			<li class="fixedlinks"><a href="">Copyright &copy; <span
-					class="appname">53by97</span>.com 2015
+					class="appname">53by97</span>.in 2016
 			</a></li>
 		</ul>
 	</div>
