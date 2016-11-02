@@ -24,7 +24,7 @@
 		<p class="pagedesc">
 			All Notes @ <span class="appname">53by97.in</span>
 		</p>
-		<table class="tabledesc center" border="1">
+		<table class="tabledesc center">
 			<tr>
 				<th>Date</th>
 				<th>Topic</th>
