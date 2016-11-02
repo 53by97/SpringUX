@@ -93,3 +93,7 @@ h1 {
 th {
 	color: #3CD4FC;
 }
+
+td { 
+    padding: 10px;
+}
