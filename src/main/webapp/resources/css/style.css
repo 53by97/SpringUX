@@ -49,6 +49,11 @@ img.logo {
 	float: left;
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 .pagedesc {
 	text-align: center;
 	margin: 10px;
