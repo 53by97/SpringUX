@@ -49,18 +49,17 @@ img.logo {
 	float: left;
 }
 
+img.underdev {
+	height: 30%;
+	width: 50%;
+	align: middle;
+}
+
 .pagedesc {
 	text-align: center;
 	margin: 10px;
 	color: #3CD4FC;
 	font-size: 1.6em;
-}
-
-.bodydesc {
-	text-align: center;
-	margin: 10px;
-	color: #F43356;
-	font-size: 1.8em;
 }
 
 .tabledesc {
