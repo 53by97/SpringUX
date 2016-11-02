@@ -2,20 +2,17 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>All Notes Page Of 53by97.com</title>
+<title>All Notes Page Of 53by97.in</title>
 <link rel="stylesheet" type="text/css" href="resources/css/style.css" />
 </head>
 <body>
-	<!-- <img class="logo" alt="Old Books - Sell Them For Cash"
-		src="resources/images/books_logo.jpg" /> -->
-
 	<div class="header">
 		<ul class="fixedlinks">
 			<li class="fixedlinks"><a href="/">Home</a></li>
 			<li class="fixedlinks"><a href="">All Notes</a></li>
-			<li class="fixedlinks"><a href="/app/interface/about">About</a></li>
-			<li class="fixedlinks lastli"><a href="mailto:admin@53by97.com"
-				onfocus="mail us at admin@53by97.com ">Contact Us</a></li>
+			<li class="fixedlinks"><a href="/">About</a></li>
+			<li class="fixedlinks lastli"><a href="mailto:admin@53by97.in"
+				onfocus="mail us at admin@53by97.in ">Contact Us</a></li>
 		</ul>
 		<p class="appname">
 			53by97 <sub>- Notes Of All Kinds</sub>
@@ -25,7 +22,7 @@
 
 	<div class="main-story">
 		<p class="pagedesc">
-			All Notes @ <span class="appname">53by97</span>.com
+			All Notes @ <span class="appname">53by97.in</span>
 		</p>
 		<table class="tabledesc center" border="1">
 			<tr>
@@ -67,7 +64,7 @@
 		<ul class="fixedlinks">
 			<li class="fixedlinks"><a href="">Privacy Policy</a></li>
 			<li class="fixedlinks"><a href="">Copyright &copy; <span
-					class="appname">53by97</span>.in 2016
+					class="appname">53by97.in</span> 2016
 			</a></li>
 		</ul>
 	</div>
